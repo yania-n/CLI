@@ -1,1 +1,1 @@
-Exercise 2b: Build a simple linear regression model to predict house price and store the result in a file. Bsuild class object and execute from main.py
+Exercise 2b: Build a simple linear regression model to predict house price and store the result in a file. Build class object and execute from main.py
