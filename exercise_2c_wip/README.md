@@ -1,0 +1,1 @@
+Exercise 2a: Write a program that takes user's name and age to greet them. In case user's name and age is not provided, the program uses the default values provided. Build class objects and execute from the main.py file.
