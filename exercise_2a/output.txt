@@ -6,3 +6,6 @@ Hello world! My name is Bernat and I'm 35 years old. Nice to meet you!
 Hello world! My name is Yania and I'm 30 years old. Nice to meet you!
 Hello world! My name is Yania and I'm 30 years old. Nice to meet you!
 Hello world! My name is Shawn and I'm 38 years old. Nice to meet you!
+Hello world! My name is angela and I'm 31 years old. Nice to meet you!
+Hello world! My name is robert and I'm 22 years old. Nice to meet you!
+Hello world! My name is aron and I'm 28 years old. Nice to meet you!
