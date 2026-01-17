@@ -28,3 +28,7 @@ Property feature:
    beds  baths   size  zip_code
 0     2      1  750.0     98107, 
 Predicted price: 538348.546
+Property feature: 
+   beds  baths   size  zip_code
+0     2      2  900.0     98107, 
+Predicted price: 658156.301
