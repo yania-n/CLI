@@ -1,5 +1,5 @@
 import argparse
-from exercise_2a.greeting_message import UserInfo, greet_user, write_text
+from exercise_2a.greet_objects import UserInfo, greet_user, write_text
 
 def get_parser():
     # Create ArgumentParser object.

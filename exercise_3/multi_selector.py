@@ -1,7 +1,7 @@
 # User can run either greeting message program or prediction model program
 import argparse
-import exercise_2a.main as greeting
-import exercise_2b.main as predictor
+import exercise_2a.greet_user_2 as greeting
+import exercise_2b.house_price_predictor as predictor
 
 def main():
     parser = argparse.ArgumentParser(description = 'Choose a program to run')
